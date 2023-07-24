@@ -1,5 +1,4 @@
 {
-  "route": "/MessageRead.html",
   "auth": {
     "identityProviders": {
       "azureActiveDirectory": {
